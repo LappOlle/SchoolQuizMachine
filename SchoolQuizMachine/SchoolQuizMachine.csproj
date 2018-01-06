@@ -99,7 +99,7 @@
     <Compile Include="Models\Handlers\FileHandler.cs" />
     <Compile Include="Models\Handlers\QuizHandler.cs" />
     <Compile Include="Models\Poco\Person.cs" />
-    <Compile Include="Models\Poco\Question.cs" />
+    <Compile Include="Models\Poco\QuestionData.cs" />
     <Compile Include="Models\Services\GpioButtonService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
